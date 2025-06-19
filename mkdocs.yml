@@ -1,0 +1,6 @@
+site_name: Marian Vanderka Resume
+site_url: https://vanderian.github.io
+site_author: Marian Vanderka
+
+theme:
+  name: 'material'
