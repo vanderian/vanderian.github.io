@@ -1,11 +1,4 @@
-# About Me
-
-vanderka.marian@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/marian-vanderka)  
-[GitHub](https://github.com/vanderian)  
-EMEA (GMT+1)
-
----
+# Marian Vanderka
 
 ## Professional Summary
 
@@ -21,18 +14,13 @@ Experienced software engineer with 10+ years in designing, developing, and deliv
 - **Backend:** Microservices, Spring, Kafka, Node.js, WebSocket, REST APIs, gRPC, Thrift
 - **DevOps/QA:** Jenkins, CMake, CI/CD, Terraform, AWS, GCP, K8s, automated testing
 - **Other:** WebRTC, AIDL, JNI, AllJoyn, functional programming, Swagger/OpenAPI
-- **Collaboration:** Agile/Scrum/Kanban, remote/distributed teams, technical documentation 
+- **Collaboration:** Agile/Scrum/Kanban, remote/distributed teams, technical documentation
 
 ---
 
-## Work Experience
+## Contact
 
-- [Software Engineer (Remote) – Gasp / Mangata](work_gasp_mangata.md)
-- [Software Engineer (Remote) – Twitter](work_twitter.md)
-- [Android Engineer (Remote) – Squad](work_squad.md)
-- [Senior Software Engineer – Architecture & Design (Remote) – Decent](work_decent.md)
-- [Senior Android Engineer – Team Lead – Shizaru](work_shizaru.md)
-- [Senior Android Engineer – Alice in Tokyo / ThirtySeventy.digital](work_alice.md)
-- [Android Engineer / Architect – Eglu](work_eglu.md)
-- [Android Engineer – Sygic](work_sygic.md)
-- [Android Engineer – Aldobec](work_aldobec.md) 
+- Email: vanderka.marian@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/marian-vanderka)  
+- [GitHub](https://github.com/vanderian)  
+- Location: EMEA (GMT+1) 
