@@ -2,5 +2,55 @@ site_name: Marian Vanderka Resume
 site_url: https://vanderian.github.io
 site_author: Marian Vanderka
 
+nav:
+  - About Me: index.md
+  - Work Experience:
+      - Software Engineer (Remote) – Gasp / Mangata: work_gasp_mangata.md
+      - Software Engineer (Remote) – Twitter: work_twitter.md
+      - Android Engineer (Remote) – Squad: work_squad.md
+      - Senior Software Engineer – Architecture & Design (Remote) – Decent: work_decent.md
+      - Senior Android Engineer – Team Lead – Shizaru: work_shizaru.md
+      - Senior Android Engineer – Alice in Tokyo / ThirtySeventy.digital: work_alice.md
+      - Android Engineer / Architect – Eglu: work_eglu.md
+      - Android Engineer – Sygic: work_sygic.md
+      - Android Engineer – Aldobec: work_aldobec.md
+
 theme:
-  name: 'material'
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    # - navigation.tabs
+    # - navigation.sections
+    # - navigation.expand
+  #   - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vanderian
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vanderian/
+  copyright: Copyright &copy; 2024 Marian Vanderka
+
+plugins:
+  - search
+  - tags
+  - awesome-pages
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+
