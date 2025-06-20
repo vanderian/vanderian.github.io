@@ -34,7 +34,7 @@ theme:
     # - navigation.tabs
     # - navigation.sections
     # - navigation.expand
-  #   - toc.integrate
+    #   - toc.integrate
 
 extra:
   social:
@@ -43,14 +43,21 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/vanderian/
   copyright: Copyright &copy; 2024 Marian Vanderka
+  meta:
+    - name: description
+      content: "Resume and portfolio of Marian Vanderka, software engineer."
+    - name: keywords
+      content: "resume, software engineer, Marian Vanderka, blockchain, mobile, backend"
 
 plugins:
   - search
-  - tags
-  - awesome-pages
+  # - tags
+  # - awesome-pages
   - print-site:
       add_to_navigation: true
       print_page_title: 'Get Printable Version'
+      add_table_of_contents: false
+      enumerate_headings: false
 
 # markdown_extensions:
 #   - toc:
