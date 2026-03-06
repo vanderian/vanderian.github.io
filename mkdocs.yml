@@ -5,6 +5,7 @@ site_author: Marian Vanderka
 nav:
   - About Me: index.md
   - Work Experience:
+      - Software Engineer (Remote, Contract) – idOS Network: work_idos.md
       - Software Engineer (Remote) – Gasp / Mangata: work_gasp_mangata.md
       - Software Engineer (Remote) – Twitter: work_twitter.md
       - Android Engineer (Remote) – Squad: work_squad.md
